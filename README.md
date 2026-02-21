@@ -1,7 +1,7 @@
 # HiddenMentorAI
 The all-in-one platform for job seekers and mentors. Build world-class resumes, practice with AI, and get real-time stealth guidance.
 <p align="center">
-  <img src="https://hiddenmentor.ai/logo.png" alt="HiddenMentor Logo" width="180"/>
+  <img src="https://hiddenmentor.ai/static/media/android-chrome-192x192.0c876e6872a5ed5f4aa8.png" alt="HiddenMentor Logo" width="180"/>
   <br/><br/>
   <h1>HiddenMentor.ai</h1>
   <h3>Undetectable Real-time AI Interview Assistant • Get Hired Faster</h3>
@@ -74,12 +74,12 @@ Help your candidates win — without anyone knowing you're there.
 <!-- You can later replace these with actual image links from your repo or external host -->
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x450/0d6efd/ffffff?text=Stealth+Overlay+During+Interview" width="48%" alt="Stealth mode"/>
-  <img src="https://via.placeholder.com/800x450/4caf50/ffffff?text=AI+Mock+Interview+Feedback" width="48%" alt="Mock feedback"/>
+  <img src="https://prnt.sc/2FYcoQ1qhell" width="48%" alt="Resume Builder"/>
+<img src="https://prnt.sc/d-XxCntaujB5" width="48%" alt="Mentor"/>
 </p>
 <p align="center">
-  <img src="https://via.placeholder.com/800x450/ff9800/ffffff?text=Real-time+AI+Suggestions" width="48%" alt="Real-time help"/>
-  <img src="https://via.placeholder.com/800x450/9c27b0/ffffff?text=Mentor+Dashboard" width="48%" alt="Mentor view"/>
+  <img src="https://prnt.sc/B-Tb67YGO-Bk" width="48%" alt="Real-time help"/>
+
 </p>
 
 ## 📢 Coming in HiddenMentor 2.0 (2026)
