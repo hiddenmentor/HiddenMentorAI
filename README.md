@@ -1,5 +1,3 @@
-# HiddenMentorAI
-The all-in-one platform for job seekers and mentors. Build world-class resumes, practice with AI, and get real-time stealth guidance.
 <p align="center">
   <img src="https://hiddenmentor.ai/static/media/android-chrome-192x192.0c876e6872a5ed5f4aa8.png" alt="HiddenMentor Logo" width="180"/>
   <br/><br/>
