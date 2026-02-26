@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://hiddenmentor.ai">
+  <a href="https://hiddenmentor.ai/?ref=github">
     <img src="https://img.shields.io/badge/Website-hiddenmentor.ai-0d6efd?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
-  <a href="https://hiddenmentor.ai/how-it-works">
+  <a href="https://hiddenmentor.ai/how-it-works/?ref=github">
     <img src="https://img.shields.io/badge/How%20It%20Works-Check%20Now-success?style=for-the-badge" alt="How it Works"/>
   </a>
-  <a href="https://www.hiddenmentor.ai/register">
+  <a href="https://www.hiddenmentor.ai/register/?ref=github">
     <img src="https://img.shields.io/badge/Get%20Started-Free%20Trial-brightgreen?style=for-the-badge" alt="Get Started"/>
   </a>
 </p>
